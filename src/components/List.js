@@ -126,7 +126,7 @@ const List = ({ firestore }) => {
             <>
               {error && <p>{error}</p>}
               {!data.length ? (
-                <div className="text-center">
+                <div className="text-center flex flex-col w-screen justify-center items-center">
                   <p className="mb-8">
                     Press <b>'Add First Item'</b> to get started
                   </p>
