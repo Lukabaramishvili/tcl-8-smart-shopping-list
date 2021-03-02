@@ -24,9 +24,9 @@ View Smart [Shopping List App](https://smart-shopping-list-8.netlify.app/) here.
 
 ## Contributors
 
-⭐️ [Ali](https://github.com/AliLynne) </br>
-⭐️ [Lily](https://github.com/lilyhoratio) </br>
-⭐️ [Shajia](https://github.com/abidishajia) </br>
+ [Ali Thompson](https://github.com/AliLynne) </br>
+ [Lily Zhou](https://github.com/lilyhoratio) </br>
+ [Shajia Abidi](https://github.com/abidishajia) </br>
 
 ## Acknowledgements
 - [The Collab Lab](https://the-collab-lab.codes) </br>
